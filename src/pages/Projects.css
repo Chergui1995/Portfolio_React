@@ -1,0 +1,33 @@
+.projects-page {
+    padding: 0 15px;
+  }
+  
+  .card {
+    margin-bottom: 20px; 
+    transition: transform 0.2s; 
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); 
+  }
+  
+  .card-title {
+    font-size: 1.5em; 
+  }
+  
+  .card-text {
+    font-size: 1.1em; 
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background: #f8f9fa;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,37 @@
+.home-page {
+    text-align: center;
+    padding: 0 15px; 
+  }
+  
+  .profile-image-container {
+    background-color: #f8f9fa; 
+    border-radius: 50%;
+    padding: 10px; 
+    display: inline-block;
+  }
+  
+  .profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  @media (max-width: 768px) {
+    .home-page {
+      text-align: left;
+    }
+  
+    .profile-image-container {
+      width: 150px;
+      height: 150px;
+      padding: 5px;
+      margin-bottom: 50px; 
+    }
+  
+    .profile-image {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  
