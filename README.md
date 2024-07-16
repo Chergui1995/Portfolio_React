@@ -1,7 +1,7 @@
 Description 
 Projet de Portfolio en React
 
-Ce projet consiste à développer un portfolio personnel en React, qui sert de preuve de compétences pour les opportunités professionnelles. L'objectif est de créer une interface utilisateur attrayante et réactive, mettant en avant vos compétences et réalisations.
+Ce projet consiste à développer un portfolio personnel en React, qui sert de preuve de compétences pour les opportunités professionnelles. L'objectif est de créer une interface utilisateur attrayante et réactive, mettant en avant les compétences et les réalisations.
 
 Fonctionnalités principales :
 
